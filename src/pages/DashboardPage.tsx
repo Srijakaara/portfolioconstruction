@@ -1,4 +1,3 @@
-import { useState } from "react"
 import { useNavigate } from "react-router"
 import { AreaChart, Area, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer, CartesianGrid } from "recharts"
 import { Card } from "@heroui/react"
